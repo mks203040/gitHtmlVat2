@@ -1,0 +1,1 @@
+<?header("Location: http://ec.europa.eu/taxation_customs/vies/vieshome.do");die();?>
